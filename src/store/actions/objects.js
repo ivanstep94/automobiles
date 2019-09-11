@@ -1,0 +1,3 @@
+const STORE_OBJECT = 'STORE_OBJECT';
+
+export { STORE_OBJECT };

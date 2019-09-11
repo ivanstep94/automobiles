@@ -1,0 +1,21 @@
+@import "../../styles/variables";
+
+.objects-component {
+  .form {
+    input {
+      margin-left: 20px;
+    }
+    button {
+      border: 2px solid $darkGray;
+      cursor: pointer;
+    }
+  }
+  .objects {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: flex-start;
+    margin: auto;
+  }
+}
+
